@@ -1,4 +1,5 @@
--- PvP quest info from https://forum.turtle-wow.org/viewtopic.php?f=37&t=4490
+-- PvP quests from https://forum.turtle-wow.org/viewtopic.php?f=37&t=4490
+-- Dangerous quests from https://forum.turtle-wow.org/viewtopic.php?p=39294
 
 function HCQuest_quests(faction)
     if faction == "Alliance" then
