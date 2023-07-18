@@ -409,6 +409,15 @@ function HCQuest_quests(faction)
                     info = "Gerenzo can appear in different places. Be careful of enemies patrolling the walkway. Gerenzo and Venture Co. Machine Smiths can summon mechanical minions that will pursue you relentlessly.",
                 },
             },
+            ["In Dreams"] = {
+                {
+                    -- https://database.turtle-wow.org/?quest=5944
+                    type = "warn",
+                    giver = "Highlord Taelan Fordring",
+                    objective = "Escort Taelan Fordring",
+                    info = "At the tower outside Hearthglen you will have to fight a large group of Crimson Elites. Avoid this one if you are hardcore.",
+                },
+            },
             ["Meet at the Grave"] = {
                 {
                     -- https://database.turtle-wow.org/?quest=3912
